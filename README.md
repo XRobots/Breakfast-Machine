@@ -1,6 +1,6 @@
 Breakfast Machine CAD and code.
 
-USes the following libraries:
+Uses the following libraries:
 
 https://learn.adafruit.com/neopixels-and-servos/the-ticoservo-library
 
